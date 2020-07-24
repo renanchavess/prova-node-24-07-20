@@ -1,6 +1,6 @@
 # Prova de Backend
 
-O projeto inicial é um cadastro de usuários em memória muito simples e sem utilizar nenhuma lib. Apesar de o códito estar em qualidade baixa, o projeto está funcional. O que se espera é que o candidato melhore este código de uma maneira que possamos avaliar suas habilidades e competências.
+O projeto inicial é um cadastro de usuários em memória muito simples e sem utilizar nenhuma lib. Apesar de o código estar em qualidade baixa, o projeto está funcional. O que se espera é que o candidato melhore este código de uma maneira que possamos avaliar suas habilidades e competências.
 
 ### Rodando o projeto
 
@@ -15,7 +15,7 @@ A idéia é deixar o candidato bem livre pra reimplementar o código da maneira 
 3. Estratégia de validação de dados
 4. Testes unitários
 
-## O que é desejado na entrega?
+## O que é desejado (não obrigatório) na entrega?
 
 1. Adição de Banco de dados
 2. Utilização de docker
