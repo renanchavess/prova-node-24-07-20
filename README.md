@@ -24,4 +24,4 @@ A idéia é deixar o candidato bem livre pra reimplementar o código da maneira 
 
 ## Como será feita a entrega?
 
-Deverá ser realizado um fork deste repositório e no e-mail enviado você deverá responder com o link deste fork.
+Deverá ser realizado um fork deste repositório e no formulário enviado você deverá responder com o link deste fork.
