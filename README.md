@@ -1,13 +1,26 @@
 # Prova de Angular
 
-Trata-se de um teste bem simples, onde temos um CRUD de usuários e queremos vê-lo funcional, organizado e com testes
+O projeto inicial é um cadastro de usuários em memória muito simples e sem utilizar nenhuma lib. Apesar de o códito estar em qualidade baixa, o projeto está funcional. O que se espera é que o candidato melhore este código de uma maneira que possamos avaliar suas habilidades e competências.
+
+### Rodando o projeto
+
+`node src/index.js`
 
 ## O que será avaliado?
 
-1. Qualidade do seu código
-2. Boas práticas utilizadas
-3. Conceitos de DRY
-4. Prazo
+A idéia é deixar o candidato bem livre pra reimplementar o código da maneira que mais lhe for conveniente e que mais demonstre suas habilidades. Está liberado o uso de libs de terceiros, bancos de dados, autenticação, etc.
+
+1. Qualidade de código
+2. Uso de patterns adequados
+3. Estratégia de validação de dados
+4. Testes unitários
+
+## O que é desejado na entrega?
+
+1. Adição de Banco de dados
+2. Utilização de docker
+3. Autenticação
+4. Utilização de typescript
 
 ## Como será feita a entrega?
 
